@@ -175,3 +175,4 @@ plt.ylim(0, h)
 
 plt.savefig(folder / "method2_reynolds_stress.png", dpi=300)
 plt.show()
+
